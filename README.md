@@ -1,0 +1,1 @@
+This Is my personal porfolio. It has an about me section, Projects section, Skills section and Contact info. In the Projects section I have provided a few links to some of the assignments I have uploaded on Github. the contact section also has a link to my LinkedIn profile.
